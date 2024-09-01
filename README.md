@@ -2,7 +2,7 @@
 
 Profissional em formação na area de tecnologia, curioso, pai, filho e marido. **Curioso no universo.** 
 
-**27 anos.**
+**28 anos.**
 
 Casado.
 
@@ -11,56 +11,36 @@ Pai de uma Menina.
 ## Formação.
 
 **Marketing Digital-Cursando**.
-Tecnologo em Marketing Digital pela **UNINTER**.
+Tecnologo em Marketing Digital na **UNINTER**
 
 **Manipulação de alimentos frescos e temperados.**
-Curso Livre no **Senai-SP.**
+Curso Livre **Senai-SP.**
 
-**Fronte End-Cursando.**
-Curso Livre na
+**Front End.**
+Curso Livre
 **Ford/Senai-SP.**
 
 ### Experiência Profissional
 
-**Experiência em açougue.**
-
-Barbosa Supermercado.
+Barbosa: Supermercado.
 
 
-Extra Supermercado.
+Extra: Supermercado.
 
 
-**Experiência em padaria**.
+Padaria: AS Mascarenhas.
 
+###Tecnologias que estou Aprendendo.
 
-AS Mascarenhas.
+ *  **Markdown**
+ *  **HTML5**
+ *  **CSS**
+ *  **JavaScript**
+ *  **Git e Git Bash.**
+ *  **GitHub**
+ *  **PowerShell**
+ *  **Framework Bootstrap**
 
-### Tecnologias que estou Aprendendo.
-
-* Markdown (Linguagem de Marcação).
-* HTML (Linguagem de Marcação).
-* CSS (Linguagem de Estilização).
-* JavaScript.
-* Git e Git Bash.
-* GitHub.
-* PowerShell.
-
-
-
-
-
-
-
-
-
-Acesse o [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-Ou pesquise diretamente no google em
-<https://google.com/?q=markdown>
-
-
-<!-- Esse exemplo acima é o equivalente em html a:
-<a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>Guia básico de Markdow</a>
--->
 
 
 <!--
